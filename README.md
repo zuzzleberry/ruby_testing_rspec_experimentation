@@ -1,8 +1,47 @@
-# Foo
+# Darknet Destroyers
 
-Welcome to your new gem! In this directory, you'll find the files you need to be able to package up your Ruby library into a gem. Put your Ruby code in the file `lib/foo`. To experiment with that code, run `bin/console` for an interactive prompt.
+In this text based battle game, you will create a character and select a class from 1 of 3 categories.
 
-TODO: Delete this and the text above, and describe your gem
+Drone - 
+abilities:
+
+Shell blast: 5-10DMG x 3
+Electric shield: Prevents next physical attack from hitting
+Double Blind: Predicts next move 
+Microdrone meltdown: Spits out micro drones to infiltrate enemies body and melt it down
+
+Hacker - 
+Taze - 15DMG
+Remote disable: shuts down enemy for 2 moves 
+Reverse request: reverse next attack back to attacker
+
+Cyborg -
+abilities: 
+Slice: 20DMG
+Regenerate: +10HP
+Impale: 25DMG with chance to disable enemy for 1 move
+
+
+
+
+
+Enemies: 
+
+Crypto Thug
+CrimSec Droid
+Malfunctioning MediDrone
+Corporate ElectroGuard
+Buzzsaw assassin
+
+
+Items:
+Small medpack: Heal 10hp
+Medpack: Heal 50hp
+Shield Wall: Absorbs 50% incoming damage, lasts 4 turns
+
+
+
+
 
 ## Installation
 
